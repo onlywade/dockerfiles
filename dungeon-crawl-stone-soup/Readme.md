@@ -8,7 +8,7 @@ http://crawl.develz.org/wordpress/
 
 # Run it
 
-    dcss.sh
+    ./crawl.sh
 
 # Play it
 
